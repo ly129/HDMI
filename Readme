@@ -1,0 +1,5 @@
+1. Set working direction to the folder that this readme file is in.
+
+2. Run Heckman based algorithms in Sim.R
+
+3. Run competitor algorithms (designed for MAR) in MAR/Sim_MAR.R in the MAR folder
